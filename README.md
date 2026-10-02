@@ -1,2 +1,5 @@
-# Cienciadedados
-Atividades da disciplina ciencia de dados.
+Grupo 1
+
+Maria Antonia
+Greicy dias
+Lucas Rogoski
